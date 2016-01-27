@@ -45,7 +45,7 @@ class RulesFileParser
         String line;
         while ((line = br.readLine()) != null) {
             line = stripComment(line);
-            if ("".equals(line))
+            if (line.isEmpty())
                 continue;
             String[] parts = line.split("\\s+");
             if (parts.length < 2)

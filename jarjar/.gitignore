@@ -1,0 +1,13 @@
+**.cache
+**.classpath
+**.project
+**.settings
+**target
+*.iml
+/.idea
+/.idea_modules
+/dependency-reduced-pom.xml
+project/build.properties
+project/plugins.sbt
+.tags
+tags

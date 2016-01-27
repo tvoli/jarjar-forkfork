@@ -11,7 +11,7 @@
   <groupId>com.googlecode.jarjar</groupId>
   <artifactId>jarjar</artifactId>
   <packaging>jar</packaging>
-  <version>1.3</version>
+  <version>1.4-magine</version>
   <name>Jar Jar Links</name>
   <description>Jar Jar Links is a utility that makes it easy to repackage Java libraries and embed them into your own distribution.</description>
   <url>http://jarjar.googlecode.com/</url>
